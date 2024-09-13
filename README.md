@@ -15,9 +15,13 @@
   <img src="https://komarev.com/ghpvc/?username=rajataswani&style=flat-square&color=orange" alt=""/>
   </div>
 <!--   <img src="http://some_place.com/image.png" /> -->
+  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rajataswani&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajataswani&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+  <p><a href="https://www.buymeacoffee.com/rajataswani"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rajataswani" /></a></p>
 
 
 
