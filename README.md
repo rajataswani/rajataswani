@@ -11,8 +11,9 @@
   <a href="https://www.youtube.com/@RajatAswani/about">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=rajataswani&style=flat-square&color=blue" alt=""/>
-
+  <div id="viws" align='center'>
+  <img src="https://komarev.com/ghpvc/?username=rajataswani&style=flat-square&color=orange" alt=""/>
+  </div>
 <!--   <img src="http://some_place.com/image.png" /> -->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rajataswani&theme=dark&background=000000)](https://git.io/streak-stats)
 
