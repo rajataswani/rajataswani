@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmc5eGVoOW8wNnd4ZGhsc3ZtOWo2OW5yaTE0MXo3cmZld20xb3h3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+</div>
+
 <!--
 **rajataswani/rajataswani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
